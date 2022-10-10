@@ -32,4 +32,6 @@ $ ./dashify.sh 03_caminandes_llamigos_1080p.mp4
 Finally, copy the stream.mpd file, the video subdirectory tree, and mpeg-dash-test.html into your
 web server's document root.
 
+Note: The version of Bento4 for the new M1 Apple Mac has a bug in it that prevents it from working.
+
 Enjoy!
